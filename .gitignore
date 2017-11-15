@@ -1,3 +1,6 @@
+/target/
+/conf/
+/xmltestes/
 # Compiled class file
 *.class
 
